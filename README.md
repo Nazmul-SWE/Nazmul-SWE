@@ -14,9 +14,9 @@
 
 ## About
 
-Computer Science and Engineering student at the University of Asia Pacific, graduating in November 2026. I have a strong foundation in data structures and algorithms, object-oriented programming, and database systems, applied across Python/Django, Java, and SQL projects. I am looking for an entry-level Software Engineer role where I can build maintainable software and solve practical engineering problems.
+Computer Science and Engineering student at the University of Asia Pacific, graduating in November 2026. I have a strong foundation in data structures and algorithms, object-oriented programming, and database systems, applied across Python/Django, Java, and SQL projects. 
 
-- **Education:** B.Sc. in Computer Science & Engineering, University of Asia Pacific, Dhaka (CGPA 3.76 / 4.00, expected November 2026)
+- **Education:** B.Sc. in Computer Science & Engineering, University of Asia Pacific
 - **Building:** extending a fall-detection pipeline with per-activity anomaly detection, see [Activity-Routed Ensemble](https://github.com/Nazmul-SWE/Activity-Routed-Ensemble-for-Fall-Detection-Severity-Estimation)
 - **Learning:** Computer Vision, Natural Language Processing, FastAPI
 - **Open to collaborate on:** [SpeechClarity](https://github.com/Nazmul-SWE/Articulation_Training_App), a gamified speech-clarity training app (currently at the specification stage)
@@ -42,31 +42,6 @@ Also: [PeerLink](https://github.com/Nazmul-SWE/Peer-To-Peer-Network-Blockchain),
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
 | **Core areas** | Data Structures & Algorithms · Object-Oriented Programming · Database Design · TCP/IP Networking · Natural Language Processing · Deep Learning |
 
-## Honors and Leadership
-
-<table>
-  <tr>
-    <th align="left" width="50%">Honors &amp; Awards</th>
-    <th align="left" width="50%">Leadership &amp; Community</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Vice Chancellor's Honor List, three-time recipient</li>
-        <li>Dean's Honor List, one-time recipient</li>
-        <li>Best Class Representative (CR) Award, 2025</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>President, Software &amp; Hardware Club, UAP (Spring 2026)</li>
-        <li>Class Representative, Dept. of CSE, UAP</li>
-        <li>Lead Organizer: InnovateX 2025 National Hackathon, DevFusion, HackApex 2026</li>
-        <li>Volunteer: Dakbakhso Foundation, Fire Service &amp; Civil Defense youth community (2025)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ## GitHub Activity
 
@@ -74,6 +49,7 @@ Also: [PeerLink](https://github.com/Nazmul-SWE/Peer-To-Peer-Network-Blockchain),
   <img alt="Public repositories" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNazmul-SWE%2FNazmul-SWE%2Fmain%2Fassets%2Frepos.json&style=flat-square&logo=github&logoColor=white">
   <img alt="Followers" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNazmul-SWE%2FNazmul-SWE%2Fmain%2Fassets%2Ffollowers.json&style=flat-square&logo=github&logoColor=white">
   <img alt="Following" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNazmul-SWE%2FNazmul-SWE%2Fmain%2Fassets%2Ffollowing.json&style=flat-square&logo=github&logoColor=white">
+  <img alt="Public commits" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNazmul-SWE%2FNazmul-SWE%2Fmain%2Fassets%2Fcommits.json&style=flat-square&logo=git&logoColor=white">
 </p>
 
 <p align="center">
@@ -110,13 +86,13 @@ Also: [PeerLink](https://github.com/Nazmul-SWE/Peer-To-Peer-Network-Blockchain),
 
 ## Get in Touch
 
-I am open to entry-level software engineering roles and to collaboration on web and machine learning projects. The quickest way to reach me is by email at [nazmulmridha680@gmail.com](mailto:nazmulmridha680@gmail.com), or through [LinkedIn](https://www.linkedin.com/in/nazmul-mridha-2545a6315) and my [portfolio](https://nazmul-swe.github.io/Portfolio/).
+The quickest way to reach me is by email at [nazmulmridha680@gmail.com](mailto:nazmulmridha680@gmail.com), or through [LinkedIn](https://www.linkedin.com/in/nazmul-mridha-2545a6315) and my [portfolio](https://nazmul-swe.github.io/Portfolio/).
 
 <!--
 Setup: this README loads its banner from assets/banner-light.svg and assets/banner-dark.svg
 in this same repository (branch "main"). Both files must be committed for the banner to show.
-The Repositories / Followers / Following badges read assets/repos.json, followers.json and
-following.json, which the workflow .github/workflows/profile-counts.yml refreshes every 6 hours.
+The Repositories / Followers / Following / Commits badges read assets/repos.json, followers.json,
+following.json and commits.json, which the workflow .github/workflows/profile-counts.yml refreshes every 6 hours.
 Run it once from the Actions tab (Run workflow) to refresh the numbers immediately.
 
 Troubleshooting: every card in "GitHub Activity" and the Profile views badge is a third-party

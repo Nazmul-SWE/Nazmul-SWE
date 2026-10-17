@@ -28,11 +28,20 @@ jobs:
           write "Followers" "$(echo "$data" | jq -r .followers)" followers
           write "Following" "$(echo "$data" | jq -r .following)" following
 
+          # Public commits authored by the user (default branches, forks excluded).
+          # If the search API call fails, keep the previous value instead of failing the job.
+          commits=$(gh api "search/commits?q=author:$USER_LOGIN&per_page=1" --jq .total_count) || commits=""
+          if [ -n "$commits" ]; then
+            write "Commits" "$commits" commits
+          else
+            echo "Commit search failed; keeping previous assets/commits.json"
+          fi
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/repos.json assets/followers.json assets/following.json
+          git add assets/repos.json assets/followers.json assets/following.json assets/commits.json
           if git diff --cached --quiet; then
             echo "No changes"
           else
