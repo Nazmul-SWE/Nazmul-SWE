@@ -14,9 +14,9 @@
 
 ## About
 
-Computer Science and Engineering student at the University of Asia Pacific, graduating in November 2026. I have a strong foundation in data structures and algorithms, object-oriented programming, and database systems, applied across Python/Django, Java, and SQL projects. I am looking for an entry-level Software Engineer role where I can build maintainable software and solve practical engineering problems.
+Computer Science and Engineering student at the University of Asia Pacific, graduating in November 2026. I have a strong foundation in data structures and algorithms, object-oriented programming, and database systems, applied across Python/Django, Java, and SQL projects. 
 
-- **Education:** B.Sc. in Computer Science & Engineering, University of Asia Pacific, Dhaka (CGPA 3.76 / 4.00, expected November 2026)
+- **Education:** B.Sc. in Computer Science & Engineering, University of Asia Pacific, 
 - **Building:** extending a fall-detection pipeline with per-activity anomaly detection, see [Activity-Routed Ensemble](https://github.com/Nazmul-SWE/Activity-Routed-Ensemble-for-Fall-Detection-Severity-Estimation)
 - **Learning:** Computer Vision, Natural Language Processing, FastAPI
 - **Open to collaborate on:** [SpeechClarity](https://github.com/Nazmul-SWE/Articulation_Training_App), a gamified speech-clarity training app (currently at the specification stage)
@@ -42,31 +42,6 @@ Also: [PeerLink](https://github.com/Nazmul-SWE/Peer-To-Peer-Network-Blockchain),
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
 | **Core areas** | Data Structures & Algorithms · Object-Oriented Programming · Database Design · TCP/IP Networking · Natural Language Processing · Deep Learning |
 
-## Honors and Leadership
-
-<table>
-  <tr>
-    <th align="left" width="50%">Honors &amp; Awards</th>
-    <th align="left" width="50%">Leadership &amp; Community</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Vice Chancellor's Honor List, three-time recipient</li>
-        <li>Dean's Honor List, one-time recipient</li>
-        <li>Best Class Representative (CR) Award, 2025</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>President, Software &amp; Hardware Club, UAP (Spring 2026)</li>
-        <li>Class Representative, Dept. of CSE, UAP</li>
-        <li>Lead Organizer: InnovateX 2025 National Hackathon, DevFusion, HackApex 2026</li>
-        <li>Volunteer: Dakbakhso Foundation, Fire Service &amp; Civil Defense youth community (2025)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ## GitHub Activity
 
