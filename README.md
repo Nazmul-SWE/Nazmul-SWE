@@ -21,12 +21,12 @@ I build practical software with a focus on clean backend systems, useful user ex
 
 ## About me
 
-- 🎓 Studying **Computer Science & Engineering at the University of Asia Pacific**, graduating in November 2026
-- 🧩 Building systems with **Python, Django, databases, and machine learning**
-- 🚀 Extending **[Activity-Routed Ensemble](https://github.com/Nazmul-SWE/Activity-Routed-Ensemble-for-Fall-Detection-Severity-Estimation)** for fall detection and severity estimation
-- 🔬 Exploring **computer vision, natural language processing, and FastAPI**
-- 🤝 Open to collaborating on **[SpeechClarity](https://github.com/Nazmul-SWE/Articulation_Training_App)**, a gamified speech-clarity training app
-- 🌏 Bengali native · English proficient
+-  Studying **Computer Science & Engineering at the University of Asia Pacific**, graduating in November 2026
+-  Building systems with **Python, Django, databases, and machine learning**
+-  Extending **[Activity-Routed Ensemble](https://github.com/Nazmul-SWE/Activity-Routed-Ensemble-for-Fall-Detection-Severity-Estimation)** for fall detection and severity estimation
+-  Exploring **computer vision, natural language processing, and FastAPI**
+-  Open to collaborating on **[SpeechClarity](https://github.com/Nazmul-SWE/Articulation_Training_App)**, a gamified speech-clarity training app
+-  Bengali native · English proficient
 
 ## Featured work
 
