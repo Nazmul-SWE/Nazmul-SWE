@@ -56,6 +56,8 @@ A human-activity-recognition project that transforms SisFall wearable-sensor win
 - [Password Strength Checker](https://github.com/Nazmul-SWE/Password-Strength-Checker) — C utility for evaluating password strength
 - [Browse all repositories →](https://github.com/Nazmul-SWE?tab=repositories)
 
+
+
 </details>
 
 ## Technical toolkit
